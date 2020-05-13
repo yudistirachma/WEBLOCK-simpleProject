@@ -1,0 +1,8 @@
+npm install
+npm install [package] --save-dev
+npm install [package] -g
+npm unistall [package] --save-dev
+npm unistall -h
+npm run [nameFucntionPackage]
+npm list -g
+npm list -g --depth=0
