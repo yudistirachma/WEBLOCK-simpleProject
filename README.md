@@ -1,5 +1,5 @@
 # WEBLOCK-simpleProject
 
-this simpleProject create using moment.js and jquery
+this simpleProject create using moment.js, jquery, webpack
 
 this code edited form dicoding.com course
